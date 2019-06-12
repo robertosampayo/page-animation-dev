@@ -1,4 +1,4 @@
 # page-animation
 It's just a page to test GSAP Library
 
-![Preview](https://github.com/robertosampayo/page-animation-dev/blob/master/img/preview.PNG)Welcome to the page-animation-dev wiki!
+![Preview](https://github.com/robertosampayo/page-animation-dev/blob/master/img/preview.PNG)
